@@ -99,6 +99,7 @@ text-decoration-line: none;
   line-height: 1.2;
   text-transform: uppercase;
   margin-left: 7rem;
+  text-align: center;
 
   
 
@@ -144,7 +145,7 @@ section p{
 
 .container .btn{
 
-margin-left: 1rem;
+margin-left: 10px;
 
 
 }
